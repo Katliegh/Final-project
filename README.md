@@ -24,8 +24,12 @@ UniMate is a full-stack platform that helps students:
 ## 📂 Project Structure
 
 unimate/
+
 ├── unimate-backend/ # Node.js + Express API
+
 └── unimate-frontend/ # React frontend
+
+---
 
 ## 🖥️ Usage
 
@@ -36,6 +40,8 @@ unimate/
 3. **Browse textbooks** and click **Buy Now** to pay with Stripe.
 4. **Use search bars** to filter tutoring listings and textbooks.
 5. **Download study resources** shared by other users.
+
+---
 
 ## ⚙️ Technologies Used
 
@@ -56,3 +62,6 @@ unimate/
 - CSS (custom styling)
 
 
+---
+## 🙏 THANK YOU
+BUILT BY KATLEGO LESETEDI
