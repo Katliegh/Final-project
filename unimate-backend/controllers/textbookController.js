@@ -1,4 +1,4 @@
-const TextbookListing = require("../models/TextbookListing");
+const TextbookListing = require("../models/Textbook");
 const Stripe = require("stripe");
 const stripe = Stripe(process.env.STRIPE_SECRET_KEY);
 
